@@ -44,7 +44,7 @@ const Main = () => {
            </div>
           </div>
           <p className="bottom-info">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi a eveniet, minima adipi
+           Shivam Gupta ©2024
           </p>
         </div>
       </div>
